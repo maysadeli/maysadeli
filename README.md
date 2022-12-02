@@ -1,10 +1,6 @@
 <body>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/maysadeli/maysadeli/main/src/Vanilla-1s-255px.gif"> </h1>
 <br>
-<div align="center">
-<img src="https://media2.giphy.com/media/dtHqn8pY3lzCJLYqyF/200w.webp?cid=ecf05e47510lb10nw0bp5x9hdpz1jkik1yi9wim6qfllfm7u&rid=200w.webp&ct=s"> <img src="https://media0.giphy.com/media/THCMS0bAXK2zfnG7Fm/200w.webp?cid=ecf05e47510lb10nw0bp5x9hdpz1jkik1yi9wim6qfllfm7u&rid=200w.webp&ct=s">
-</div>
-<br>
 <div>
 <h2 align="left"> <img src="https://media4.giphy.com/media/3og0IvqGRVwW4tITQs/200w.webp?cid=ecf05e47au6tlfcij05yzrjh8hddd7x29b762reylyhk6gdu&rid=200w.webp&ct=s" width="30"> About Me</h2>
   <p align="center">
