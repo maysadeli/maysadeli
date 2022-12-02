@@ -49,7 +49,7 @@
 <img src="https://media1.giphy.com/media/Q5pH4UmOiQciITstXU/200.webp?cid=ecf05e47ybcmpxcxpcth0wrox4gimearc2182p0h01f3bma3&rid=200.webp&ct=s" align="left" width="160">
 <br>
 <p align="right">
-  <a href="https://chat.whatsapp.com/ES4Vj8J85EgKswTEjNvwrh"><img src="https://img.icons8.com/nolan/2x/touchscreen-smartphone.png" alt="CELULAR" width="60" height="60"/> </a> <a href="mailto:maah.deli@gmail.com?" subject="maah.deli@gmail"><img src="https://img.icons8.com/nolan/2x/apple-mail.png" alt="MAIL" width="60" height="60"/></a> <a href="https://www.linkedin.com/in/maysa-deli-dos-santos-martins-a6b23b8b/"><img src="https://img.icons8.com/nolan/2x/linkedin.png" alt="LINKEDIN" width="60" height="60"/></a> <a href="https://instagram.com/maysadanti"><img src="https://img.icons8.com/nolan/2x/instagram-new.png" alt="INSTA" width="60" height="60"/></a>
+  <a href="https://chat.whatsapp.com/ES4Vj8J85EgKswTEjNvwrh"><img src="https://img.icons8.com/nolan/2x/touchscreen-smartphone.png" alt="CELULAR" width="60" height="60"/> </a> <a href="mailto:maah.deli@gmail.com?" subject="maah.deli@gmail"><img src="https://img.icons8.com/nolan/2x/apple-mail.png" alt="MAIL" width="60" height="60"/></a> <a href="https://www.linkedin.com/in/maysa-deli-dos-santos-martins-a6b23b8b/"><img src="https://img.icons8.com/nolan/2x/linkedin.png" alt="LINKEDIN" width="60" height="60"/></a> <a href="https://instagram.com/devmaysa"><img src="https://img.icons8.com/nolan/2x/instagram-new.png" alt="INSTA" width="60" height="60"/></a>
   </p>
 </div>
 </div>
