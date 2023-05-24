@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/maysadeli/maysadeli/main/src/Vanilla-1s-157px.gif"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br>
   </p>
-<img src="https://media1.giphy.com/media/iDgg0RDBArI1KoswPs/giphy.gif?cid=ecf05e47spiusnge2ceoz3bci8nuyo9g4am3q7tz1yp6hp2l&rid=giphy.gif&ct=s" align="right" width="200" height="200"><img src="https://raw.githubusercontent.com/maysadeli/maysadeli/main/src/1672784749515.jpg" align="right" width="181" height="300">
+<img src="https://media1.giphy.com/media/iDgg0RDBArI1KoswPs/giphy.gif?cid=ecf05e47spiusnge2ceoz3bci8nuyo9g4am3q7tz1yp6hp2l&rid=giphy.gif&ct=s" align="right" width="200" height="200"><img src="https://raw.githubusercontent.com/maysadeli/maysadeli/main/src/1672784749515.jpg" align="right" width="181" height="266">
 <li>
 <b>Age:</b> 30 years old</li>
 <li>
