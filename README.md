@@ -1,13 +1,11 @@
 <body>
-<h1 align="center"> Hello world </h1>
-<br>
 <div>
 <h2 align="left"> <img src="https://media4.giphy.com/media/3og0IvqGRVwW4tITQs/200w.webp?cid=ecf05e47au6tlfcij05yzrjh8hddd7x29b762reylyhk6gdu&rid=200w.webp&ct=s" width="30"> About Me</h2>
   <p align="center">
     <img src="https://raw.githubusercontent.com/maysadeli/maysadeli/main/src/Vanilla-1s-157px.gif"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br>
   </p>
-<img src="https://media1.giphy.com/media/iDgg0RDBArI1KoswPs/giphy.gif?cid=ecf05e47spiusnge2ceoz3bci8nuyo9g4am3q7tz1yp6hp2l&rid=giphy.gif&ct=s" align="right" width="200" height="200"><img src="https://raw.githubusercontent.com/maysadeli/maysadeli/main/src/Captura%20de%20tela%20de%202022-02-11%2023-48-09.png" align="right">
+<img src="https://media1.giphy.com/media/iDgg0RDBArI1KoswPs/giphy.gif?cid=ecf05e47spiusnge2ceoz3bci8nuyo9g4am3q7tz1yp6hp2l&rid=giphy.gif&ct=s" align="right" width="200" height="200"><img src="https://raw.githubusercontent.com/maysadeli/maysadeli/main/src/Captura%20de%20tela%20de%202022-02-11%2023-48-09.png" align="right" width="181" height="237">
 <li>
 <b>Age:</b> 30 years old</li>
 <li>
